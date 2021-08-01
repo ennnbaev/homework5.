@@ -10,6 +10,7 @@ public class Main {
         {
             //изменения в  feature-2
             //изменения в  feature-2(2)
+            //изменения в  feature-2(3)
         }
         {
             //изменения в  feature-2-bugfix
